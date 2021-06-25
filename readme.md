@@ -7,6 +7,10 @@ These config files allow to use [eslint](https://eslint.org/) with a preset styl
 
 ## How to use?
 1. Copy **.eslint.js** and **package.json** to the root folder of your project.
+2. Initiale an npm project.
+
+        npm init -y
+
 2. Install dependencies.
 
         npm install
