@@ -12,5 +12,6 @@ module.exports = {
   rules: {
     "no-plusplus": ["error", { allowForLoopAfterthoughts: true }],
     "prettier/prettier": "error",
+    endOfLine: "auto",
   },
 };
